@@ -7,7 +7,7 @@ How to Download System Mechanic Already Purchased?: A Complete Guide
    :maxdepth: 2
    :caption: Contents:
 
-  .. image:: https://img.freepik.com/premium-vector/login-button_592324-17754.jpg
+  .. image:: download.png
    :alt: My Project Logo
    :width: 400px
    :align: center
